@@ -1,0 +1,8 @@
+{% load benchmark %}
+
+<h1> Templatetags Template </h1>
+
+{% for number in count %}
+	{% inclusion_tagged number level depth %}
+{% endfor %}
+

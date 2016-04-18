@@ -1,0 +1,11 @@
+<div style="margin-left: 2px;">
+	<code>
+		included # {{number}}
+		Level {{level}}
+		Depth {{depth}}
+	</code>
+
+	{% if level < depth %}
+    {% inclusion_tagged number level depth %}
+	{% endif %}
+</div>

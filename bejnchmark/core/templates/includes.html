@@ -1,0 +1,5 @@
+<h1> Includes Template </h1>
+
+{% for number in count %}
+  {% include "_included.html" with depth=depth number=number level=level|add:1 %}
+{% endfor %}
