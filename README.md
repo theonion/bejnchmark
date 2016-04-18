@@ -36,6 +36,6 @@ overhead of rendering nested templates.
 
 ## Results
 
-<a href="https://docs.google.com/spreadsheets/d/1iwWxPdsy4ifNH1viNFkScnYiYYAt_0JhuB9vO5c1r7Y/edit#gid=0">
+<a href="https://docs.google.com/a/theonion.com/spreadsheets/d/1iwWxPdsy4ifNH1viNFkScnYiYYAt_0JhuB9vO5c1r7Y/edit?usp=sharing">
   Spreadsheet of Results
 </a>
