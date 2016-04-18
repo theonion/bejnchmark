@@ -21,7 +21,7 @@ CACHED_LOADER=1 ./manage.py runserver
 
 Both of these views render a recursively included template.
 
-`http://localhest:8000/:renderType/:depth/count`
+`http://localhest:8000/:renderType/:depth/:count`
 
 `depth` is how many times the template will recurse.
 
