@@ -15,9 +15,9 @@ CACHED_LOADER=1 ./manage.py runserver
 
 ## Has two views:
 
-### `http://localhost:8000/includes/10/10`
+`http://localhost:8000/includes/10/10`
 
-### `http://localhost:8000/templatetags/10/10`
+`http://localhost:8000/templatetags/10/10`
 
 Both of these views render a recursively included template.
 
